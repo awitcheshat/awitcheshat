@@ -7,12 +7,12 @@
           <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{5E147C}About}}$</summary>
-    My name is Nat , I'm an adult so pls don't be weird , my main interests are, RE, FNAF, AND ANIME. I'm a proud selfshipper and am mostly sharing! if i have unfriend you pls do not try to contact me. 
+    My name is Nat , I'm an adult so pls don't be weird , my main interests are, RE, FNAF, AND ANIME. I'm a proud selfshipper and am mostly sharing! if i have unfriend you pls do not try to contact me. 16+ interactions only pls. 
  </details>
        <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{5E147C}DNI + BYF}}$</summary>
-    My dni is i block freely to create my own space online, i advise you do the same! keep in mind before you int that i have mood swings. I can also go from hyper to quiet very fast. c+h is always welcome and i am currently looking for friends to chat + afk with!! if i have unfriend you it's nothing personal , pls dont try to contact me. pls don't flirt with me i already have a wonderful leon(@youheardthelady) i'm inlove with.
+    My dni is i block freely to create my own space online, i advise you do the same! keep in mind before you int that i have mood swings. I can also go from hyper to quiet very fast. c+h is always welcome and i am currently looking for friends to chat + afk with!! if i have unfriend you it's nothing personal , pls dont try to contact me. pls don't flirt with me , or act weird towards me you will be blocked
  </details>
   <!--  GAMES  -->  
   <details>
