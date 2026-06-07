@@ -20,5 +20,5 @@
     in short the answer is mostly no. BUT sometimes i do say yes, feel free to dm me asking if i don't answer the answer is no.
  </details>
   
-![Image](https://github.com/user-attachments/assets/01ed6128-b7aa-4fff-8a6d-59505c045159)
+<img width="736" height="948" alt="Image" src="https://github.com/user-attachments/assets/47c7a304-df17-4f76-8cfd-114a2712a1d8" />
 <img width="1000" height="180" alt="Image" src="https://github.com/user-attachments/assets/0757783d-995c-41b0-9886-3ad35220156b" />
