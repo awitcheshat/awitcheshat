@@ -19,6 +19,5 @@
     <summary>${\textsf{\color{5E147C}party limit help info}}$</summary>
     in short the answer is mostly no. BUT sometimes i do say yes, feel free to dm me asking if i don't answer the answer is no.
  </details>
-  
-<img width="736" height="948" alt="Image" src="https://github.com/user-attachments/assets/47c7a304-df17-4f76-8cfd-114a2712a1d8" />
+  <img width="268" height="280" alt="Image" src="https://github.com/user-attachments/assets/0793f152-da5b-4b62-a504-f735509135d1" />
 <img width="1000" height="180" alt="Image" src="https://github.com/user-attachments/assets/0757783d-995c-41b0-9886-3ad35220156b" />
