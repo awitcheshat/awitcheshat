@@ -8,6 +8,7 @@
   <details>
     <summary>${\textsf{\color{5E147C}About}}$</summary>
     My name is Dante, my main interests are, RE, FNAF, AND ANIME. I'm a proud selfshipper and am mostly sharing! if i have unfriend you pls do not try to contact me.
+  </details>
        <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{5E147C}DNI + BYF}}$</summary>
