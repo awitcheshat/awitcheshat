@@ -7,8 +7,7 @@
           <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{5E147C}About}}$</summary>
-    My name is Dante , I'm an adult so pls don't be weird , my main interests are, RE, FNAF, AND ANIME. I'm a proud selfshipper and am mostly sharing! if i have unfriend you pls do not try to contact me. 18+ only pls for friend requests, expect for skin trades, i don't mind if u wanna do just a skin trade and your under 18-, it's just for becoming close friends i rather be friends with people my age! 
- </details>
+    My name is Dante, my main interests are, RE, FNAF, AND ANIME. I'm a proud selfshipper and am mostly sharing! if i have unfriend you pls do not try to contact me.
        <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{5E147C}DNI + BYF}}$</summary>
